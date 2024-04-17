@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="9.891" height="11.539" viewBox="0 0 9.891 11.539">
+  <g id="Group_224" data-name="Group 224" transform="translate(-137 -189)">
+    <g id="Path_714" data-name="Path 714" transform="translate(137 189)" fill="none">
+      <path d="M3.827,0H9.891V11.539H0V3.572Z" stroke="none"/>
+      <path d="M 4.220996856689453 0.9999990463256836 L 0.9999961853027344 4.006276607513428 L 0.9999961853027344 10.53939914703369 L 8.89091682434082 10.53939914703369 L 8.89091682434082 0.9999990463256836 L 4.220996856689453 0.9999990463256836 M 3.826836585998535 -9.5367431640625e-07 L 9.89091682434082 -9.5367431640625e-07 L 9.89091682434082 11.53939914703369 L -3.814697265625e-06 11.53939914703369 L -3.814697265625e-06 3.571729183197021 L 3.826836585998535 -9.5367431640625e-07 Z" stroke="none" fill="#0064c7"/>
+    </g>
+    <path id="Path_715" data-name="Path 715" d="M789.476,500.745h3.731v-3.472" transform="translate(-652.084 -308.048)" fill="none" stroke="#0064c7" stroke-width="1"/>
+    <line id="Line_113" data-name="Line 113" x1="1.648" transform="translate(143.182 193.709)" fill="none" stroke="#0064c7" stroke-width="1"/>
+    <line id="Line_114" data-name="Line 114" x1="5.77" transform="translate(139.061 195.77)" fill="none" stroke="#0064c7" stroke-width="1"/>
+    <line id="Line_115" data-name="Line 115" x1="5.77" transform="translate(139.061 197.83)" fill="none" stroke="#0064c7" stroke-width="1"/>
+  </g>
+</svg>

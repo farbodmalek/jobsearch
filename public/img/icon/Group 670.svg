@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="117" height="117" viewBox="0 0 117 117">
+  <defs>
+    <filter id="Rectangle_35" x="0" y="0" width="117" height="117" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_651" data-name="Group 651" transform="translate(-277 -776)">
+    <g id="Group_51" data-name="Group 51" transform="translate(92 -7)">
+      <g transform="matrix(1, 0, 0, 1, 185, 783)" filter="url(#Rectangle_35)">
+        <rect id="Rectangle_35-2" data-name="Rectangle 35" width="57" height="57" rx="15" transform="translate(30 20)" fill="#f8f8f8"/>
+      </g>
+      <g id="Group_48" data-name="Group 48" transform="translate(234.795 818.06)">
+        <g id="Group_50" data-name="Group 50" transform="translate(0)">
+          <path id="Path_555" data-name="Path 555" d="M13.8,5.65A5.65,5.65,0,1,1,8.147,0,5.65,5.65,0,0,1,13.8,5.65" transform="translate(0.267)" fill="#29c285"/>
+          <path id="Path_557" data-name="Path 557" d="M23.355,9.014H20.676V6.335a1.364,1.364,0,1,0-2.728,0V9.014H15.27a1.364,1.364,0,1,0,0,2.728h2.679V14.42a1.364,1.364,0,1,0,2.728,0V11.741h2.679a1.364,1.364,0,1,0,0-2.728" transform="translate(1.487 0.532)" fill="#29c285"/>
+          <g id="Path_831" data-name="Path 831" transform="translate(-1 12.445)" fill="none">
+            <path d="M9.5,0A9.5,9.5,0,0,1,19,9.5c0,5.247-19,5.247-19,0A9.5,9.5,0,0,1,9.5,0Z" stroke="none"/>
+            <path d="M 9.5 3.000001907348633 C 6.033580780029297 3.000001907348633 3.19221019744873 5.727692604064941 3.009345054626465 9.149324417114258 C 3.271939277648926 9.334590911865234 3.856279373168945 9.641621589660645 4.901579856872559 9.913102149963379 C 6.197460174560547 10.24967193603516 7.830539703369141 10.43502235412598 9.5 10.43502235412598 C 11.16946029663086 10.43502235412598 12.80253982543945 10.24967193603516 14.09842014312744 9.913102149963379 C 15.14372062683105 9.641621589660645 15.72806167602539 9.334590911865234 15.99065494537354 9.149324417114258 C 15.80778980255127 5.727692604064941 12.9664192199707 3.000001907348633 9.5 3.000001907348633 M 9.5 1.9073486328125e-06 C 14.74670028686523 1.9073486328125e-06 19 4.253292083740234 19 9.500001907348633 C 19 14.74670219421387 0 14.74670219421387 0 9.500001907348633 C 0 4.253292083740234 4.253299713134766 1.9073486328125e-06 9.5 1.9073486328125e-06 Z" stroke="none" fill="#29c285"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

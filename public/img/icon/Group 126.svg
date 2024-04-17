@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Group_704" data-name="Group 704" transform="translate(-74 -537)">
+    <g id="Ellipse_66" data-name="Ellipse 66" transform="translate(74 537)" fill="#fff" stroke="#0064c7" stroke-width="1">
+      <circle cx="25" cy="25" r="25" stroke="none"/>
+      <circle cx="25" cy="25" r="24.5" fill="none"/>
+    </g>
+    <g id="Group_698" data-name="Group 698" transform="translate(4.057 65.808)">
+      <path id="Path_664" data-name="Path 664" d="M5.247,17.78l1.5-.159a1.8,1.8,0,0,1,1.965,1.5l.7,4.271a1.8,1.8,0,0,1-1.458,2.06l-1.439.259a3.968,3.968,0,0,1-4.395-2.4A24.021,24.021,0,0,1,0,13.445,30.564,30.564,0,0,1,2.116,2.465,3.968,3.968,0,0,1,6.511.064L7.949.323A1.8,1.8,0,0,1,9.407,2.383l-.7,4.27a1.8,1.8,0,0,1-1.965,1.5l-1.5-.159" transform="matrix(0.788, -0.616, 0.616, 0.788, 79.943, 490.761)" fill="none" stroke="#747474" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_665" data-name="Path 665" d="M0,0A5.8,5.8,0,0,1,0,8.616" transform="matrix(0.788, -0.616, 0.616, 0.788, 95.663, 488.941)" fill="none" stroke="#747474" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_666" data-name="Path 666" d="M.222,0S8.429,7.438,0,16.676" transform="matrix(0.788, -0.616, 0.616, 0.788, 96.079, 483.535)" fill="none" stroke="#747474" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_667" data-name="Path 667" d="M.543,0A8.366,8.366,0,0,0,.6,6.026" transform="matrix(0.788, -0.616, 0.616, 0.788, 88.592, 496.212)" fill="none" stroke="#747474" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

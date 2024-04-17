@@ -1,0 +1,15 @@
+.form-group {
+  margin-top: 1rem;
+
+  label {
+    font-size: var(--font-0-8);
+    margin-bottom: .25rem;
+  }
+
+  label.required {
+    &:after {
+      content: '*';
+      color: red;
+    }
+  }
+}

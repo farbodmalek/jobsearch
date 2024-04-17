@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62.012" height="58.092" viewBox="0 0 62.012 58.092">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.856" cy="0.819" r="0.591" gradientTransform="matrix(-0.685, -0.728, 0.674, -0.634, 1.147, 1.459)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b6e5d2"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <filter id="Path_969" x="0" y="0.322" width="61.96" height="45.678" filterUnits="userSpaceOnUse">
+      <feOffset dx="-5" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_532" x="14" y="14.322" width="34" height="35" filterUnits="userSpaceOnUse">
+      <feOffset dx="-5" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.412" y1="0.862" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#b6e5d2"/>
+    </linearGradient>
+    <filter id="Path_967" x="0.003" y="13.294" width="61.985" height="44.797" filterUnits="userSpaceOnUse">
+      <feOffset dx="-5" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_964" x="30.475" y="0" width="31.537" height="31.537" filterUnits="userSpaceOnUse">
+      <feOffset dx="-2" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-4"/>
+      <feFlood flood-color="#005d47" flood-opacity="0.188"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_621" data-name="Group 621" transform="translate(-66.43 -712.909)">
+    <g id="Group_586" data-name="Group 586" transform="translate(-0.57 4.231)">
+      <g id="Group_584" data-name="Group 584" transform="translate(87 714)">
+        <g id="Group_585" data-name="Group 585">
+          <g transform="matrix(1, 0, 0, 1, -20, -5.32)" filter="url(#Path_969)">
+            <path id="Path_969-2" data-name="Path 969" d="M28.63,5.836,21.5,4.42V1.5A1.507,1.507,0,0,0,19.99,0H11.96a1.5,1.5,0,0,0-1.5,1.5V4.42H3.36A3.357,3.357,0,0,0,0,7.76v.02l.01,2.8s3.5,5.24,12.27,5.09L12.27,14.2a1.888,1.888,0,0,1,1.88-1.9h3.79a1.9,1.9,0,0,1,1.89,1.89v1.445c8.83.61,12.13-5.55,12.13-5.55V7.78a3.35,3.35,0,0,0-3.34-3.36m-9.01-.14H12.28V2.15a.612.612,0,0,1,.61-.61H19a.612.612,0,0,1,.61.61Z" transform="translate(20 5.32)" fill="url(#radial-gradient)"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -20, -5.32)" filter="url(#Rectangle_532)">
+            <rect id="Rectangle_532-2" data-name="Rectangle 532" width="4" height="5" rx="1" transform="translate(34 19.32)" fill="#f0f9f5"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -20, -5.32)" filter="url(#Path_967)">
+            <path id="Path_967-2" data-name="Path 967" d="M31.25,13.366C29.927,14.9,26.6,17.652,19.83,17.55v1.629a1.894,1.894,0,0,1-1.894,1.893H14.161a1.894,1.894,0,0,1-1.893-1.893V17.552C2.976,17.49,0,12.972,0,12.972V24.328A3.364,3.364,0,0,0,3.362,27.7H17.377c.442,0,6.379.042,10.552.072a4.03,4.03,0,0,0,4.059-4V23.72c-.02-4.077-.046-6.2-.042-6.64.011-1.017.016-1.761.016-1.991V13.837s-.214-1.049-.718-.468" transform="translate(20 5.32)" fill="url(#linear-gradient)"/>
+          </g>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 67, 708.68)" filter="url(#Path_964)">
+        <path id="Path_964-2" data-name="Path 964" d="M28.357,11.154h-4.1v-4.1a2.086,2.086,0,1,0-4.172,0v4.1h-4.1a2.086,2.086,0,1,0,0,4.172h4.1v4.1a2.086,2.086,0,0,0,4.172,0v-4.1h4.1a2.086,2.086,0,1,0,0-4.172" transform="translate(26.07 -2.47)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

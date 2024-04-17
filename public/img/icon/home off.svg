@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="53" height="58" viewBox="0 0 53 58">
+  <defs>
+    <clipPath id="clip-home_off">
+      <rect width="53" height="58"/>
+    </clipPath>
+  </defs>
+  <g id="home_off" data-name="home off" clip-path="url(#clip-home_off)">
+    <rect width="53" height="58" fill="#fff"/>
+    <g id="Group_639" data-name="Group 639" transform="translate(15.492 15.984)">
+      <g id="Group_634" data-name="Group 634">
+        <path id="Path_990" data-name="Path 990" d="M20.957,6.433,11.008,0,1.058,6.433A2.315,2.315,0,0,0,0,8.377V19.7a2.315,2.315,0,0,0,2.315,2.315H19.7A2.315,2.315,0,0,0,22.016,19.7V8.377a2.315,2.315,0,0,0-1.058-1.944" transform="translate(0 -0.001)" fill="#a5a5a5"/>
+        <path id="Path_991" data-name="Path 991" d="M268.75,182.743h-2.907a.776.776,0,0,1-.793-.758v-7.829a.776.776,0,0,1,.793-.758h2.907a.776.776,0,0,1,.793.758v7.829a.776.776,0,0,1-.793.758" transform="translate(-250.995 -164.073)" fill="#fff"/>
+        <path id="Path_992" data-name="Path 992" d="M91.07,208.344h3.465a.849.849,0,0,0,.849-.849v-2.974a.849.849,0,0,0-.849-.849H91.07a.849.849,0,0,0-.849.849V207.5a.849.849,0,0,0,.849.849" transform="translate(-87.168 -194.346)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

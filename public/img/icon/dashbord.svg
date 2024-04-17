@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.906" height="14.475" viewBox="0 0 17.906 14.475">
+    <g id="Group_132" data-name="Group 132" transform="translate(0.5 0.5)">
+        <rect id="Rectangle_165" data-name="Rectangle 165" width="16.906" height="10.984" rx="1.056" transform="translate(0 0)" fill="none" stroke="#0064c7" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_73" data-name="Line 73" y2="3.414" transform="translate(2.857 4.948)" fill="none" stroke="#0064c7" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_77" data-name="Line 77" y2="5.74" transform="translate(5 2.622)" fill="none" stroke="#0064c7" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_78" data-name="Line 78" y2="3.571" transform="translate(7.143 2.622)" fill="none" stroke="#0064c7" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_76" data-name="Line 76" x2="11.44" transform="translate(2.857 13.475)" fill="none" stroke="#0064c7" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <g id="Ellipse_24" data-name="Ellipse 24" transform="translate(10.5 1.423)" fill="none" stroke="#0064c7" stroke-width="1">
+            <ellipse cx="2" cy="2.5" rx="2" ry="2.5" stroke="none"/>
+            <ellipse cx="2" cy="2.5" rx="1.5" ry="2" fill="none"/>
+        </g>
+    </g>
+</svg>

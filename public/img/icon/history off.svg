@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="53" height="58" viewBox="0 0 53 58">
+  <defs>
+    <clipPath id="clip-history_off">
+      <rect width="53" height="58"/>
+    </clipPath>
+  </defs>
+  <g id="history_off" data-name="history off" clip-path="url(#clip-history_off)">
+    <rect width="53" height="58" fill="#fff"/>
+    <g id="Group_638" data-name="Group 638" transform="translate(-82.985 -841.583)">
+      <g id="Group_604" data-name="Group 604" transform="translate(101.924 863.241)">
+        <g id="Group_605" data-name="Group 605">
+          <path id="Path_983" data-name="Path 983" d="M72.882,82.264a9.382,9.382,0,1,1,0-18.764,9.016,9.016,0,0,1,9.356,8.673c.008.03,0,3.6,0,3.944" transform="translate(-61.741 -61.741)" fill="none" stroke="#a5a5a5" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+        </g>
+      </g>
+      <path id="Path_986" data-name="Path 986" d="M1951.875,343.375l4.236,5.087,4.2-5.087" transform="translate(-1833.645 531.007)" fill="none" stroke="#a5a5a5" stroke-linecap="round" stroke-width="2"/>
+      <g id="Group_608" data-name="Group 608">
+        <path id="Path_985" data-name="Path 985" d="M20.745,3.12V15.073c-.059.2-.1.4-.178.595a2.561,2.561,0,0,1-2.495,1.626q-4.442,0-8.884,0a.45.45,0,0,0-.354.143Q7.374,18.907,5.9,20.367a4.347,4.347,0,0,1-.512.379H4.984c-.064-.036-.126-.076-.192-.106a.744.744,0,0,1-.468-.736q0-1.174,0-2.348c0-.079,0-.158,0-.261H4.09c-.486,0-.972.008-1.457,0A2.524,2.524,0,0,1,.2,15.723a5.335,5.335,0,0,1-.2-.65V2.229A1.331,1.331,0,0,0,.04,2.1,2.452,2.452,0,0,1,1.305.334,6.3,6.3,0,0,1,2.229,0H17.666a1.356,1.356,0,0,0,.149.045,3.367,3.367,0,0,1,2.593,1.962,7.826,7.826,0,0,1,.337,1.113" transform="translate(92.308 857.402)" fill="#a5a5a5"/>
+        <g id="Group_607" data-name="Group 607">
+          <line id="Line_195" data-name="Line 195" x1="3" transform="translate(104.354 861.5)" fill="none" stroke="#f8f8f8" stroke-linecap="round" stroke-width="2"/>
+          <line id="Line_196" data-name="Line 196" x1="9.854" transform="translate(97.5 865.5)" fill="none" stroke="#f8f8f8" stroke-linecap="round" stroke-width="2"/>
+          <line id="Line_197" data-name="Line 197" x1="6" transform="translate(97.5 869.5)" fill="none" stroke="#f8f8f8" stroke-linecap="round" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

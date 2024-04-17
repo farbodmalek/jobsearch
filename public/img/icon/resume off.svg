@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="53" height="58" viewBox="0 0 53 58">
+  <defs>
+    <clipPath id="clip-resume_off">
+      <rect width="53" height="58"/>
+    </clipPath>
+  </defs>
+  <g id="resume_off" data-name="resume off" clip-path="url(#clip-resume_off)">
+    <rect width="53" height="58" fill="#fff"/>
+    <g id="Group_637" data-name="Group 637" transform="translate(17.448 17.492)">
+      <g id="Group_631" data-name="Group 631">
+        <path id="Path_987" data-name="Path 987" d="M18.1,11.507q0,4.206,0,8.412a2.977,2.977,0,0,1-2.2,2.976,3.518,3.518,0,0,1-.9.116q-5.946.011-11.892,0A3,3,0,0,1,.055,20.551,3.447,3.447,0,0,1,0,19.9Q0,13.623,0,7.349a2.86,2.86,0,0,1,.461-1.67,4.883,4.883,0,0,1,.627-.69C2.468,3.633,3.842,2.271,5.24.934A3.187,3.187,0,0,1,7.5,0Q11.251,0,15,0a3,3,0,0,1,3.1,3.093q.008,4.206,0,8.412" transform="translate(0 -0.001)" fill="#a5a5a5"/>
+        <path id="Path_989" data-name="Path 989" d="M102.822,99.764a2.594,2.594,0,1,1,2.59,2.6,2.582,2.582,0,0,1-2.59-2.6" transform="translate(-96.379 -91.082)" fill="#fff"/>
+        <path id="Path_988" data-name="Path 988" d="M73.425,211.31c-1.058,0-2.116.021-3.173-.011a3.261,3.261,0,0,1-1.112-.243.973.973,0,0,1-.58-1.3,4.636,4.636,0,0,1,2.728-2.9.675.675,0,0,1,.453.008,4.658,4.658,0,0,0,3.064.012.841.841,0,0,1,.558.02,5.3,5.3,0,0,1,2.529,2.61,1.283,1.283,0,0,1-1.178,1.8c-1.1,0-2.194,0-3.291,0v0" transform="translate(-64.2 -193.87)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

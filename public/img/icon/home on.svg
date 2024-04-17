@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="53" height="58" viewBox="0 0 53 58">
+  <defs>
+    <filter id="Path_990" x="-12" y="-5" width="82.016" height="82.016" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_991" x="23.056" y="18.326" width="22.492" height="27.344" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.439"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_992" x="12.053" y="18.326" width="23.163" height="22.672" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.439"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-home_on">
+      <rect width="53" height="58"/>
+    </clipPath>
+  </defs>
+  <g id="home_on" data-name="home on" clip-path="url(#clip-home_on)">
+    <rect width="53" height="58" fill="#fff"/>
+    <g id="Group_633" data-name="Group 633" transform="translate(18 15)">
+      <g id="Group_634" data-name="Group 634">
+        <g transform="matrix(1, 0, 0, 1, -18, -15)" filter="url(#Path_990)">
+          <path id="Path_990-2" data-name="Path 990" d="M20.957,6.433,11.008,0,1.058,6.433A2.315,2.315,0,0,0,0,8.377V19.7a2.315,2.315,0,0,0,2.315,2.315H19.7A2.315,2.315,0,0,0,22.016,19.7V8.377a2.315,2.315,0,0,0-1.058-1.944" transform="translate(18 15)" fill="#0064c7"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -18, -15)" filter="url(#Path_991)">
+          <path id="Path_991-2" data-name="Path 991" d="M268.75,182.743h-2.907a.776.776,0,0,1-.793-.758v-7.829a.776.776,0,0,1,.793-.758h2.907a.776.776,0,0,1,.793.758v7.829a.776.776,0,0,1-.793.758" transform="translate(-233 -149.07)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -18, -15)" filter="url(#Path_992)">
+          <path id="Path_992-2" data-name="Path 992" d="M91.07,208.344h3.465a.849.849,0,0,0,.849-.849v-2.974a.849.849,0,0,0-.849-.849H91.07a.849.849,0,0,0-.849.849V207.5a.849.849,0,0,0,.849.849" transform="translate(-69.17 -179.35)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

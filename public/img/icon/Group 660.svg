@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13.072" height="14" viewBox="0 0 13.072 14">
+  <g id="Group_660" data-name="Group 660" transform="translate(-340.777 -322.5)">
+    <g id="Group_308" data-name="Group 308" transform="translate(341.277 323)">
+      <g id="Group_295" data-name="Group 295" transform="translate(0 1.43)">
+        <g id="Group_299" data-name="Group 299">
+          <rect id="Rectangle_232" data-name="Rectangle 232" width="12.072" height="11.57" rx="1" fill="none" stroke="gray" stroke-miterlimit="10" stroke-width="1"/>
+          <line id="Line_137" data-name="Line 137" x2="12.1" transform="translate(0.028 3.364)" fill="none" stroke="gray" stroke-miterlimit="10" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_297" data-name="Group 297" transform="translate(2.726)">
+        <g id="Group_300" data-name="Group 300" transform="translate(0 0)">
+          <path id="Path_803" data-name="Path 803" d="M0,2.861V0" fill="none" stroke="gray" stroke-linecap="round" stroke-width="1"/>
+          <line id="Line_140" data-name="Line 140" y1="2.861" transform="translate(3.338)" fill="none" stroke="gray" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+          <line id="Line_141" data-name="Line 141" y1="2.861" transform="translate(6.676)" fill="none" stroke="gray" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        </g>
+      </g>
+      <line id="Line_142" data-name="Line 142" x2="0.12" y2="4.323" transform="translate(5.944 6.591)" fill="none" stroke="#707070" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
